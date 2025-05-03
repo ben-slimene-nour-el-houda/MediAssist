@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a web-based application developed to manage medical-related data, including appointments, emergency contacts, medications, password resets, prescriptions, and user profiles. The application is built using PHP with MySQL as the database, running on XAMPP for local development.
-
+ 
 ## Project Structure
 The project directory is organized as follows:
 - `accueil/` - Contains the main welcome page files.
