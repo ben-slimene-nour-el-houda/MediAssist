@@ -54,7 +54,7 @@ The project uses a MySQL database with the following tables:
 2. **Install Dependencies**
    - Navigate to the project directory:
      ```
-     cd medicament
+     cd mediassist
      ```
    - Install the required PHP dependencies using Composer:
      ```
