@@ -64,7 +64,7 @@ The project uses a MySQL database with the following tables:
 3. **Database Setup with XAMPP**
    - Start XAMPP and ensure the Apache and MySQL modules are running.
    - Open phpMyAdmin (usually at `http://localhost/phpmyadmin`) and create a new database named `mediassist`.
-   - Import the database schema by selecting the `mediassist` database and using the "Import" tab to load `database.sql` .
+   - Import the database schema by selecting the `mediassist` database and using the "Import" tab to load `mediassist.sql` .
 
 4. **Configure Database Connection**
    - Open `db_connect.php` and update the database credentials to match your XAMPP MySQL setup:
